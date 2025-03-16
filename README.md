@@ -150,9 +150,5 @@ npm start
 This project is licensed under the **MIT License**.
 
 ---
-## **📞 Contact**
-For queries or contributions, feel free to reach out!
-📧 **Email:** your-email@example.com  
-🔗 **GitHub:** [yourgithub](https://github.com/yourusername)  
 
 
