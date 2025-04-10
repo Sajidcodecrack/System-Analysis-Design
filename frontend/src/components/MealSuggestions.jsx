@@ -25,7 +25,7 @@ const MealSuggestions = ({ suggestions }) => {
               style={{
                 background: '#ffffff',
                 borderRadius: '15px',
-                boxShadow: '0 8px 25px rgba(0, 0, 0, 0.15)',
+                boxShadow: '0 8px 25px rgba(214, 66, 66, 0.79)',
               }}
             >
               <div className="card-body p-4">
